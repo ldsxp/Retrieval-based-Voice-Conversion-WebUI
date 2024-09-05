@@ -154,7 +154,7 @@ sudo apt install ffmpeg
 ```bash
 brew install ffmpeg
 ```
-#### For Windwos users
+#### For Windows users
 Download these files and place them in the root folder:
 - [ffmpeg.exe](https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffmpeg.exe)
 
@@ -188,7 +188,7 @@ python infer-web.py
 ### Use the integration package
 Download and extract file `RVC-beta.7z`, then follow the steps below according to your system:
 #### For Windows users
-双击`go-web.bat`
+Double click `go-web.bat`
 #### For MacOS users
 ```bash
 sh ./run.sh
